@@ -1,0 +1,15 @@
+#p1 {
+    text-transform: none;
+}
+
+#p2 {
+    text-transform: uppercase;
+}
+
+#p3 {
+    text-transform: lowercase;
+}
+
+#p4 {
+    text-transform: capitalize;
+}

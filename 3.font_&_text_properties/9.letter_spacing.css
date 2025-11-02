@@ -1,0 +1,39 @@
+#p1 {
+    letter-spacing: normal;
+}
+
+#p2 {
+    letter-spacing: 0.5px;
+}
+
+#p3 {
+    letter-spacing: 1px;
+}
+
+#p4 {
+    letter-spacing: 2px;
+}
+
+#p5 {
+    letter-spacing: 4px;
+}
+
+#p6 {
+    letter-spacing: 8px;
+}
+
+#p7 {
+    letter-spacing: 16px;
+}
+
+#p8 {
+    letter-spacing: 32px;
+}
+
+#p9 {
+    letter-spacing: 64px;
+}
+
+#p10 {
+    letter-spacing: 128px;
+}

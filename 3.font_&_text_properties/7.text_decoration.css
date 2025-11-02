@@ -1,0 +1,108 @@
+#p1 {
+    text-decoration: none;
+}
+
+#p2 {
+    text-decoration: underline;
+}
+
+#p3 {
+    text-decoration: overline;
+}
+
+#p4 {
+    text-decoration: line-through;
+}
+
+#p5 {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+
+#p6 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+#p7 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+#p8 {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+#p9 {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+
+#p10 {
+    text-decoration-line: underline;
+    text-decoration-skip-ink: none;
+}
+
+#p11 {
+    text-decoration-line: overline;
+    text-decoration-thickness: 3px;
+}
+
+#p12 {
+    text-decoration-line: line-through;
+    text-decoration-color: aquamarine;
+}
+
+#p13 {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: blueviolet;
+}
+
+#p14 {
+    text-decoration-line: overline;
+    text-decoration-style: dotted;
+    text-decoration-skip-ink: auto;
+}
+
+#p15 {
+    text-decoration-line: line-through;
+    text-decoration-style: double;
+    text-decoration-thickness: 4px;
+}
+
+#p16 {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: darkmagenta;
+}
+
+#p17 {
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+}
+
+#p18 {
+    text-decoration-line: line-through;
+    text-decoration-style: dashed;
+    text-decoration-color: darkred;
+    text-decoration-thickness: 3.5px;
+}
+
+#p19 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: deeppink;
+    text-decoration-thickness: 0.5px;
+    text-decoration-skip-ink: auto;
+}
+
+#p20 {
+    text-decoration-line: overline;
+    text-decoration-style: double;
+    text-decoration-color: purple;
+    text-decoration-thickness: 2.5px;
+    text-decoration-skip-ink: none;
+}

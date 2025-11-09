@@ -1,0 +1,679 @@
+#div1 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 0;
+}
+
+#div2 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
+
+#div3 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+}
+
+#div4 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+}
+
+#div5 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+}
+
+#div6 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+}
+
+#div7 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 35px;
+}
+
+#div8 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 40px;
+}
+
+#div9 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 45px;
+}
+
+#div10 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 50px;
+}
+
+#div11 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+#div12 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#div13 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#div14 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+#div15 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+
+#div16 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+#div17 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+}
+
+#div18 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+
+#div19 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 45px;
+    padding-right: 45px;
+    padding-bottom: 45px;
+    padding-left: 45px;
+}
+
+#div20 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+#div21 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 10px 100px;
+}
+
+#div22 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 20px 90px;
+}
+
+#div23 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 30px 80px;
+}
+
+#div24 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 40px 70px;
+}
+
+#div25 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 50px 60px;
+}
+
+#div26 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 60px 50px;
+}
+
+#div27 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 70px 40px;
+}
+
+#div28 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 80px 30px;
+}
+
+#div29 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 90px 20px;
+}
+
+#div30 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 100px 10px;
+}
+
+#div31 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+}
+
+#div32 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+
+#div33 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+
+#div34 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 40px;
+    padding-right: 70px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+}
+
+#div35 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+}
+
+#div36 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 60px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+}
+
+#div37 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 70px;
+    padding-right: 40px;
+    padding-bottom: 70px;
+    padding-left: 40px;
+}
+
+#div38 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 80px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+    padding-left: 30px;
+}
+
+#div39 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 90px;
+    padding-right: 20px;
+    padding-bottom: 90px;
+    padding-left: 20px;
+}
+
+#div40 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 100px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#div41 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 5px 10px 100px;
+}
+
+#div42 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 10px 20px 90px;
+}
+
+#div43 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 15px 30px 80px;
+}
+
+#div44 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 20px 40px 70px;
+}
+
+#div45 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 25px 50px 60px;
+}
+
+#div46 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 30px 60px 50px;
+}
+
+#div47 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 35px 70px 40px;
+}
+
+#div48 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 40px 80px 30px;
+}
+
+#div49 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 45px 90px 20px;
+}
+
+#div50 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 50px 100px 10px;
+}
+
+#div51 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#div52 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 90px;
+    padding-left: 20px;
+}
+
+#div53 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+    padding-left: 30px;
+}
+
+#div54 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 70px;
+    padding-left: 40px;
+}
+
+#div55 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+}
+
+#div56 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+}
+
+#div57 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 35px;
+    padding-right: 70px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+}
+
+#div58 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 40px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+
+#div59 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 45px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+
+#div60 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+}
+
+#div61 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 5px 50px 10px 100px;
+}
+
+#div62 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 10px 45px 20px 90px;
+}
+
+#div63 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 15px 40px 30px 80px;
+}
+
+#div64 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 20px 35px 40px 70px;
+}
+
+#div65 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 25px 30px 50px 60px;
+}
+
+#div66 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 30px 25px 60px 50px;
+}
+
+#div67 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 35px 20px 70px 40px;
+}
+
+#div68 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 40px 15px 80px 30px;
+}
+
+#div69 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding: 45px 10px 90px 20px;
+}
+
+#div70 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding: 50px 5px 100px 10px;
+}
+
+#div71 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 5px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+}
+
+#div72 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+    padding-right: 45px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+
+#div73 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 15px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+
+#div74 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 35px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+}
+
+#div75 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+}
+
+#div76 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+}
+
+#div77 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 35px;
+    padding-right: 20px;
+    padding-bottom: 70px;
+    padding-left: 40px;
+}
+
+#div78 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 40px;
+    padding-right: 15px;
+    padding-bottom: 80px;
+    padding-left: 30px;
+}
+
+#div79 {
+    background: gray;
+    width: 150px;
+    height: 150px;
+    padding-top: 45px;
+    padding-right: 10px;
+    padding-bottom: 90px;
+    padding-left: 20px;
+}
+
+#div80 {
+    background: lightgray;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    padding-right: 5px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
